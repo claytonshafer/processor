@@ -1,5 +1,3 @@
-//ECE 350 Project Checkpoint 1
-//Clayton Shafer
 //ALU
 module alu(data_operandA, data_operandB, ctrl_ALUopcode, ctrl_shiftamt, data_result, isNotEqual, isLessThan, overflow);
 
